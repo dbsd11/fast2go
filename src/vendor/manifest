@@ -1,0 +1,17 @@
+{
+    "version": 0,
+    "dependencies": [
+        {
+            "importpath": "../../../../.go/src/github.com/valyala/fasthttp",
+            "repository": "https://github.com/valyala/fasthttp.git",
+            "revision": "204fed91879e3476bedd4d9ce79e765a824a9b31",
+            "branch": "master"
+        },
+        {
+            "importpath": "../../../../.go/src/github.com/go-sql-driver/mysql",
+            "repository": "https://github.com/go-sql-driver/mysql.git",
+            "revision": "dbc3fe23a4aced10a53834106e288b155d17e2ee",
+            "branch": "master"
+        }
+    ]
+}
